@@ -5,7 +5,7 @@ The company uses various languages in her day-2-day business modelling. Among to
 
 R It is an open source language for scientific computing and visualization. Open source! because its freely distributed and its base code is freely available for anyone to read, modify and expand it if got the required programming prerequisite. It has a dedicated community called CRAN that regulate its activities for patches, upgrade and libraries/packages inclusion). 
 
-learn more about R [a link](https://github.com/user/repo/blob/branch/other_file.md)
+learn more about R [on their website](https://cran.com/)
 
 
 
